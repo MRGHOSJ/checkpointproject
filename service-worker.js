@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/checkpointproject/precache-manifest.76973e7868c754e0cc300904ebedbf2a.js"
+  "/checkpointproject/precache-manifest.b1cd8c72fee7fb07e1f7ed2f53946768.js"
 );
 
 workbox.clientsClaim();
