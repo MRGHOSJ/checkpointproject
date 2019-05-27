@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/checkpointproject/static/js/runtime~main.9a3ac006.js"
   },
   {
-    "revision": "2cc83e55471582f566e6",
-    "url": "/checkpointproject/static/js/main.2cc83e55.chunk.js"
+    "revision": "b9527453204eb3a04766",
+    "url": "/checkpointproject/static/js/main.b9527453.chunk.js"
   },
   {
     "revision": "3cbaec28ac67fa279e0b",
     "url": "/checkpointproject/static/js/1.3cbaec28.chunk.js"
   },
   {
-    "revision": "2cc83e55471582f566e6",
+    "revision": "b9527453204eb3a04766",
     "url": "/checkpointproject/static/css/main.4943321c.chunk.css"
   },
   {
-    "revision": "340ebe8ccd6b710b929c35c4332b9446",
+    "revision": "2e7517a76314dd38e94abe91e143ea63",
     "url": "/checkpointproject/index.html"
   }
 ];
