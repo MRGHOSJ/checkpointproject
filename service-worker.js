@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/MRGHOSJ/checkpointproject.git/precache-manifest.da78ec21a828f74d4f1d0f3d82107bba.js"
+  "/checkpointproject/precache-manifest.d6f8316235b242f1c7c84c8746e82c73.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/MRGHOSJ/checkpointproject.git/index.html", {
+workbox.routing.registerNavigationRoute("/checkpointproject/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
