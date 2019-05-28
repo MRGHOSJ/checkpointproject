@@ -1,13 +1,13 @@
 {
   "main.css": "/checkpointproject/static/css/main.dbb840e8.chunk.css",
-  "main.js": "/checkpointproject/static/js/main.c4326e54.chunk.js",
-  "main.js.map": "/checkpointproject/static/js/main.c4326e54.chunk.js.map",
+  "main.js": "/checkpointproject/static/js/main.65fc24fe.chunk.js",
+  "main.js.map": "/checkpointproject/static/js/main.65fc24fe.chunk.js.map",
   "static/js/1.181949dc.chunk.js": "/checkpointproject/static/js/1.181949dc.chunk.js",
   "static/js/1.181949dc.chunk.js.map": "/checkpointproject/static/js/1.181949dc.chunk.js.map",
   "runtime~main.js": "/checkpointproject/static/js/runtime~main.9a3ac006.js",
   "runtime~main.js.map": "/checkpointproject/static/js/runtime~main.9a3ac006.js.map",
   "static/css/main.dbb840e8.chunk.css.map": "/checkpointproject/static/css/main.dbb840e8.chunk.css.map",
   "index.html": "/checkpointproject/index.html",
-  "precache-manifest.928f9866ebecafd1b280c8454edd0201.js": "/checkpointproject/precache-manifest.928f9866ebecafd1b280c8454edd0201.js",
+  "precache-manifest.148dc26c9874f0365f9f5ad0cf63092d.js": "/checkpointproject/precache-manifest.148dc26c9874f0365f9f5ad0cf63092d.js",
   "service-worker.js": "/checkpointproject/service-worker.js"
 }
